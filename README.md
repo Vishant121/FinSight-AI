@@ -253,4 +253,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-<p align="center">Built with ❤️ at Bipin Tripathi Kumaon Institute of Technology, Dwarahat</p>
+<p align="center">Developed as a final-year project at Bipin Tripathi Kumaon Institute of Technology, Dwarahat</p>
