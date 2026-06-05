@@ -1,0 +1,123 @@
+date,amount,year,type,category
+
+01/06/2023,6471,2023,expense,shopping
+01/06/2023,2804,2023,expense,utilities
+01/06/2023,8851,2023,expense,groceries
+01/07/2023,9346,2023,expense,entertainment
+01/07/2023,1475,2023,saving,fixed deposit
+01/07/2023,2323,2023,saving,gold
+01/08/2023,4362,2023,income,salary
+01/08/2023,3567,2023,expense,rent
+01/08/2023,5629,2023,expense,rent
+01/08/2023,7006,2023,expense,rent
+01/08/2023,7805,2023,expense,shopping
+01/08/2023,5833,2023,income,salary
+01/09/2023,759,2023,saving,fixed deposit
+01/09/2023,3366,2023,income,freelance
+01/09/2023,4008,2023,income,freelance
+01/09/2023,1974,2023,income,investment
+01/10/2023,6143,2023,expense,rent
+01/10/2023,2783,2023,income,salary
+01/10/2023,9581,2023,expense,shopping
+01/10/2023,9533,2023,income,bonus
+01/11/2023,1345,2023,expense,groceries
+01/11/2023,1769,2023,saving,mutual fund
+01/11/2023,9937,2023,saving,recurring deposit
+01/11/2023,5788,2023,income,salary
+01/11/2023,6171,2023,saving,gold
+01/11/2023,307,2023,income,bonus
+01/12/2023,7202,2023,expense,shopping
+01/12/2023,2606,2023,expense,utilities
+01/12/2023,8648,2023,expense,groceries
+01/12/2023,8917,2023,saving,recurring deposit
+01/12/2023,7236,2023,expense,utilities
+01/12/2023,5380,2023,saving,recurring deposit
+01/01/2024,7485,2024,income,bonus
+01/01/2024,9436,2024,income,investment
+01/01/2024,5611,2024,saving,gold
+01/01/2024,5425,2024,income,investment
+01/02/2024,5913,2024,expense,groceries
+01/02/2024,4681,2024,expense,rent
+01/02/2024,9206,2024,saving,recurring deposit
+01/02/2024,1502,2024,income,freelance
+01/03/2024,8104,2024,saving,gold
+01/03/2024,7900,2024,saving,mutual fund
+01/03/2024,7442,2024,saving,gold
+01/03/2024,4920,2024,income,salary
+01/04/2024,5116,2024,expense,groceries
+01/04/2024,7853,2024,saving,recurring deposit
+01/04/2024,7071,2024,saving,recurring deposit
+01/04/2024,5864,2024,saving,recurring deposit
+01/05/2024,4218,2024,expense,rent
+01/05/2024,3255,2024,income,salary
+01/05/2024,8879,2024,expense,shopping
+01/05/2024,3238,2024,saving,mutual fund
+01/05/2024,4630,2024,income,investment
+01/05/2024,1747,2024,saving,recurring deposit
+01/06/2024,6012,2024,expense,groceries
+01/06/2024,331,2024,income,bonus
+01/06/2024,4594,2024,saving,mutual fund
+01/06/2024,9166,2024,income,salary
+01/07/2024,8142,2024,saving,mutual fund
+01/07/2024,9505,2024,income,salary
+01/07/2024,7943,2024,expense,utilities
+01/07/2024,3120,2024,expense,rent
+01/07/2024,7927,2024,income,bonus
+01/08/2024,8156,2024,income,investment
+01/08/2024,2585,2024,income,salary
+01/08/2024,1495,2024,income,bonus
+01/09/2024,9866,2024,income,investment
+01/09/2024,8661,2024,saving,mutual fund
+01/09/2024,7353,2024,expense,utilities
+01/09/2024,7125,2024,expense,entertainment
+01/10/2024,1725,2024,saving,fixed deposit
+01/10/2024,4435,2024,income,freelance
+01/10/2024,2673,2024,saving,fixed deposit
+01/10/2024,9143,2024,income,freelance
+01/10/2024,143,2024,income,freelance
+01/11/2024,7799,2024,expense,entertainment
+01/11/2024,3892,2024,expense,shopping
+01/11/2024,7538,2024,expense,rent
+01/11/2024,4434,2024,income,freelance
+01/11/2024,7065,2024,saving,mutual fund
+01/11/2024,2541,2024,income,freelance
+01/12/2024,1077,2024,income,salary
+01/12/2024,9849,2024,income,bonus
+01/12/2024,7295,2024,saving,recurring deposit
+01/12/2024,5082,2024,income,investment
+01/12/2024,4560,2024,saving,gold
+01/01/2025,9898,2025,expense,shopping
+01/01/2025,5380,2025,income,investment
+01/01/2025,523,2025,saving,recurring deposit
+01/01/2025,9524,2025,income,freelance
+01/01/2025,4515,2025,saving,fixed deposit
+01/01/2025,2970,2025,saving,fixed deposit
+01/02/2025,4657,2025,saving,gold
+01/02/2025,8156,2025,income,investment
+01/02/2025,5800,2025,income,investment
+01/02/2025,5360,2025,expense,rent
+01/02/2025,2734,2025,saving,fixed deposit
+01/02/2025,8217,2025,expense,utilities
+01/03/2025,9112,2025,saving,gold
+01/03/2025,1542,2025,income,investment
+01/03/2025,5396,2025,expense,rent
+01/03/2025,8531,2025,income,investment
+01/03/2025,6870,2025,income,investment
+01/05/2025,8267,2025,income,bonus
+01/05/2025,945,2025,saving,gold
+01/05/2025,9098,2025,income,bonus
+01/05/2025,9112,2025,saving,gold
+07/05/2025,1542,2025,income,investment
+09/05/2025,5396,2025,expense,rent
+11/05/2025,8531,2025,income,investment
+13/05/2025,6870,2025,income,investment
+15/05/2025,8267,2025,income,bonus
+
+01/07/2023,1902,2023,expense,Medical
+25/08/2024,20,2024,income,coffee
+01/06/2025,200,2025,expense,Online Shopping
+11/12/2020,100,2020,expense,Medicines and consultation
+01/06/2025,200,2025,expense,Online Shopping
+07/01/2023,1902,2023,expense,Medical
+11/12/2020,100,2020,expense,Medicines and consultation
+02/06/2025,200,2025,expense,Online Shopping
