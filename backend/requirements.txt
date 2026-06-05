@@ -1,0 +1,39 @@
+# ===================================================
+# FinSight — Backend Dependencies (Python 3.10+)
+# Install with:  pip install -r requirements.txt
+# ===================================================
+
+# --- Web API ---
+Flask>=3.0.0
+Flask-Cors>=4.0.0
+python-dotenv>=1.0.0
+
+# --- Image Processing ---
+opencv-python>=4.9.0
+Pillow>=10.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+
+# --- OCR ---
+# Requires the Tesseract OCR engine installed separately on the system.
+# Windows: https://github.com/UB-Mannheim/tesseract/wiki
+# Ubuntu:  sudo apt install tesseract-ocr
+# macOS:   brew install tesseract
+pytesseract>=0.3.10
+
+# --- PDF Handling ---
+pdf2image>=1.17.0          # needs poppler installed on the system
+PyMuPDF>=1.24.0
+
+# --- AI / Key-Detail Extraction (Gemini 2.5 Flash) ---
+google-genai>=1.5.0
+
+# --- NLP ---
+spacy>=3.7.0
+nltk>=3.8.0
+# After installing, download the spaCy English model:
+#   python -m spacy download en_core_web_sm
+
+# --- Data Handling & Export ---
+pandas>=2.2.0
+openpyxl>=3.1.0            # enables pandas Excel (.xlsx) export
