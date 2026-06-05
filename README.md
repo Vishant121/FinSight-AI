@@ -71,7 +71,7 @@ This project was developed as a final-year B.Tech project in the Department of C
 
 1. **Upload** — the user uploads a financial document through the web interface.
 2. **Preprocess** — OpenCV enhances the image (grayscale, denoise, deskew, thin/thicken text).
-3. **Extract text and key fields ** — Gemini 2.5 Flash interprets the text and returns structured key fields.
+3. **Extract text and key fields** — Gemini 2.5 Flash interprets the text and returns structured key fields.
 4. **Clean** — NLP routines normalise and tidy the extracted text.
 5. **Visualise** — structured data is sent to the React frontend and rendered as charts via Recharts.
 
